@@ -1,0 +1,32 @@
+{
+  "name": "matcha",
+  "displayName": "Matcha",
+  "description": "Matcha dark theme for VS Code",
+  "version": "0.0.2",
+  "publisher": "lucafalasco",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#A4B07E",
+    "theme": "light"
+  },
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matcha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matcha-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucafalasco/matcha.git"
+  },
+  "homepage": "https://github.com/lucafalasco/matcha/blob/master/README.md"
+}
