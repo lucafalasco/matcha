@@ -4,6 +4,7 @@
   </a>
 </p>
 
-___
+---
+---
 
-A dark theme for VS code. 
+### Matcha is a dark, earthy theme for VS code designed to be energizing yet easy on the eye.
