@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=lucafalasco.matcha" target="_blank">
-    <img src="https://raw.githubusercontent.com/lucafalasco/matcha/master/assets/logo.png" width="400px" />
-  </a>
-</p>
+![](https://raw.githubusercontent.com/lucafalasco/matcha/master/assets/logo-light.png#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lucafalasco/matcha/master/assets/logo.png#gh-light-mode-only)
 
 ---
 
