@@ -2,11 +2,11 @@
   "name": "matcha",
   "displayName": "Matcha",
   "description": "Matcha is a dark, earthy theme for VS Code",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "lucafalasco",
   "icon": "assets/icon.png",
   "galleryBanner": {
-    "color": "#A4B07E",
+    "color": "#D1DED3",
     "theme": "light"
   },
   "engines": {
