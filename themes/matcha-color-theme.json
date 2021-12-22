@@ -149,6 +149,7 @@
     "panel.border": "#707C4F",
     "panel.background": "#1c2427",
     "panel.dropBorder": "#D9D4B8",
+    "list.dropBackground": "#d9d4b820",
     "panelTitle.activeBorder": "#D9D4B8",
     "statusBar.background": "#A4B07Eda",
     "statusBar.foreground": "#273136",
