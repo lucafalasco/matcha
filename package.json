@@ -15,6 +15,14 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "matcha",
+    "theme",
+    "color-theme",
+    "dark",
+    "green",
+    "brown"
+  ],
   "contributes": {
     "themes": [
       {
